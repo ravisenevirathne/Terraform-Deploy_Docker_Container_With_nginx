@@ -12,3 +12,6 @@ Terraform install on PC usuing choco
 - Terraform apply
 - docker ps  
 - Terraform Destroy
+
+
+Further detail https://www.youtube.com/watch?v=ItIFWFutUCA

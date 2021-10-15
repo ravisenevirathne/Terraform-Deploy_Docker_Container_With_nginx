@@ -2,7 +2,7 @@
 
 sources are in Master Branch
 
-Terraform install on PC usuing choco
+Terraform install on PC using choco
 
 - Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 - choco install terraform

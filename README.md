@@ -8,7 +8,7 @@ Terraform install on PC using choco
 - choco install terraform
 - terraform version
 
-- Terraform init
+- Terraform init .
 - Terraform apply
 - docker ps  
 - Terraform Destroy

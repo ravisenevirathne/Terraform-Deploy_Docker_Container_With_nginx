@@ -13,7 +13,7 @@ Terraform install on PC using choco
 - docker ps  
 - Terraform Destroy
 
-
+..
 ......
 
 

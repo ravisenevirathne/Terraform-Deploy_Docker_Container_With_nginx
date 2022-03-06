@@ -14,7 +14,7 @@ Terraform install on PC using choco
 - Terraform Destroy
 
 ..
-......
+........
 
 
 Further detail https://www.youtube.com/watch?v=ItIFWFutUCA
